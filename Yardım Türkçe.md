@@ -10,19 +10,16 @@ Braille Editörü belge tabanlı bir uygulamadır. Uygulamayı ilk açtığını
 Braille Editörü; UTF8 ile kodlanmış ".txt", ".brf", ".brl" dosyalarının yanı sıra bazı düz metin biçimlerini UTF8 ile kodlanmış olması şartıyla destekler. Uygulama bütün dosya uzantıları için aynı şekilde çalışır ama Braille ekranlar dosya uzantısına göre farklı davranabilmektedir.
 
 Dosya kaydetme ekranında dosya türünü seçebilirsiniz. "Braille metin belgesi" seçeneğini seçtiğinizde dosyanız .brf uzantısıyla kaydedilir. Uygulama yeni belgeleri her zaman UTF8 kodlamasıyla kaydeder.
-## Uygulama içi satın alma ve deneme süresi bilgileri
-Braille Editörü teknik olarak uygulama içi satın alma ile ücretsiz, esas olarak ücretli bir uygulamadır.
+## Uygulama içi satın alma ve abonelik bilgileri
+Braille Editörü abonelik modelli bir uygulamadır. Aylık ve yıllık olarak iki otomatik yenilenen abonelik vardır. Bu abonelikler bir hafta ücretsiz deneme sunar. Ücretsiz deneme sonrasında ücretlendirilmemek için yenileme tarihinden en geç 24 saat öncesine kadar aboneliği iptal etmeniz gerekir. Aboneliği iptal ederseniz süre sonuna kadar uygulamaya erişim sağlayabilirsiniz.
 
-Uygulamayı açıp bir belge açtığınızda veya yeni bir belge oluşturduğunuzda belgenin düzenleme ekranı yerine ücretsiz deneme süresi ve sınırsız kullanım için ödemeniz gereken ücreti gösteren bir ekran açılır. Bu ekrandan geçebilmeniz için internet bağlantınız olması gerekir. Bu ekrandan yardım sayfasına da ulaşabilirsiniz.
+Uygulamada tek seferlik ücret ile sınırsız kullanım sağlayan bir uygulama içi satın alma ürünü daha vardır. Bu ürün ücretsiz deneme modelini desteklemediği için önce aboneliklerden birini seçerek denemeyi başlatmanız, aboneliği deneme süresi dolmadan iptal etmeniz ve süre dolduktan sonra sizin için uygun olan seçeneği seçerek devam etmeniz gerekir.
 
-Karşınıza çıkan ilk ekranda "Sürdür" düğmesine bastığınızda uygulama içi satın alma yapmak için bir ekran açılır ancak bu ekranda fiyat yazmaz ve bu işleme onay verdiğiniz için faturalandırılmazsınız. Bu bir abonelik olmadığı için deneme süresi dolmadan yapmanız gereken bir şey yoktur.
+Bu işlemleri yapmanız için gereken ekran yeni veya mevcut bir belge açtığınızda karşınıza çıkar. Ayrıca yanlışlıkla yapılan satın alma işlemlerinde veya abonelikler için ödeme yönteminizden ücret alınamadığı durumlarda da editör yerine bilgilendirici ve yönlendirici ekranlar karşınıza çıkar.
 
-Ücretsiz deneme süresi, işlemi onayladığınız an başlar ve giriş ekranında belirtilen sürenin sonunda biter. Ücretsiz deneme bittikten sonra bir belge açarsanız ya hemen ya da herhangi bir işlem yapmaya çalıştığınızda farklı bir ekran açılır. Eğer belgede değişiklik yaptıysanız bu değişikliğiniz kaydedilmiştir ancak tam sürümü almadan daha fazla müdahale etmenize izin verilmez. Bu ekranda da ürünün güncel fiyatı yazılıdır ve "Sürdür" düğmesine basıp App Store işlemine onay verdiğinizde bu ücret ile faturalandırılırsınız. Bu ekranı geçmek için de internet bağlantısı gereklidir. Bu tek seferlik bir ücrettir ve uygulama aynı Apple kimliği ile giriş yaptığınız tüm aygıtlarda kullanılabilir.
-Uyarı: Ücretsiz deneme süresi tüm aygıtlarınız arasında iCloud ile paylaşılır. Ücretsiz denemeyi tüm aygıtlarınızda kullanabilmeniz için Apple Medya Hizmetleri'ne aynı Apple kimliği ile giriş yapmanız yeterli değildir. İşlemi yaptığınız aygıtta iCloud'a giriş yaptığınız Apple kimliği ile diğer aygıtlarınızda da iCloud'a giriş yapmanız gerekir. Eğer tüm aygıtlarınızda ve tüm servislerde aynı Apple kimliğini kullanıyorsanız ve aygıtlarınız internete bağlıysa herhangi bir sorun olmamalıdır. Tam sürüm için sadece Apple Medya Hizmetleri'ne giriş yapmış olmanız yeterlidir.
+Ayarlar bölümündeki ilgili bölümde aboneliğinizin ne zaman ve hangi fiyattan yenileneceğini veya iptal ettiyseniz ne zaman süresinin dolacağını görebilirsiniz. Sınırsız kullanım için ödeme yaptıysanız bunun bilgisini de bu sayfada görebilirsiniz.
 
-Herhangi bir sebepten dolayı ücretsiz deneme hakkınızı  kaybederseniz size yardımcı olmamız maalesef mümkün değildir. Apple ücretsiz işlemlerin iadesini yapmaz.
-
-Geliştirici, herhangi bir zamanda ücretsiz deneme süresini veya tam sürüm fiyatını değiştirme hakkını saklı tutar.
+Uygulama içi satın alma özellikleri internet bağlantısı gerektirir ve internet bağlantınız olmazsa uygulamayı ücret ödemiş bile olsanız kullanamayabilirsiniz.
 ## Editör Arayüzü
 Editör ekranında işlevsel olan tek alan belgenizi görüntüleyip düzenlediğiniz metin alanıdır. Buradaki "Belge işlemleri" adındaki düğme belge tabanlı uygulamaların çoğunda bulunan standart bir düğmedir. Diğer seçenekler menü çubuğundan erişilebilen "Braille" menüsünde bulunur. Bu seçenekler aşağıdaki konularda açıklanmıştır.
 ## Standart Braille Çevirisi
@@ -51,6 +48,9 @@ Bir sonraki seçenek sayfa numarasının yerleştirileceği konumun doğru belir
 Boş satırlar belirlenirken art arda iki yeni satır karakterinin yanı sıra sadece boşluk ve sekme karakterlerinden ibaret olan satırlar da dikkate alınır. Bu işlem sayfa düzenlemesi yapılmadan hemen önce yapılır.
 ## Ayarlar
 Bu ekrana Braille menüsü yerine "Braille Editörü" menüsünden ulaşabilirsiniz. Bu seçenek ile ulaştığınız ekranda çeviri ekranında kullanılacak kalıcı ayarlarınızı seçebilirsiniz. Bu ayarlar uygulamayı kapatsanız da diskinizde saklanır.
+
 İleride uygulamaya yeni özellikler eklendiğinde burada seçebildiğiniz ayar sayısı artacak ve çeviri yaparken her zaman aynı ayarları kullandığınız durumda buradan ayarlarınızı seçmek size zaman kazandıracaktır. Buradaki ayarlar yukarıdaki bölümlerde açıklanmıştır.
+
+Bu bölümden abonelik bilgilerini de görüntüleyebilir ve uygun olduğu durumlarda aynı ekran üzerinden aboneliğinizi yönetebilirsiniz.
 
 Braille Editörü, Rıdvan Cinkara danışmanlığıyla Halim Can Temirci tarafından geliştirilmiştir. Bu uygulama geliştirilmeye devam etmektedir ve önerileriniz bizim için önemlidir. Uygulama ile ilgili destek talepleriniz ve geri bildirimleriniz için [engramlar_mail.04@icloud.com](mailto:engramlar_mail.04@icloud.com) e-posta adresi üzerinden bizimle iletişime geçebilirsiniz.
