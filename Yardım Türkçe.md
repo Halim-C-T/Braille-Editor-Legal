@@ -28,7 +28,8 @@ Bu, Braille menüsündeki ilk seçenektir ve uygulamanın en önemli işlevi ola
 
 Bu seçeneği seçtiğinizde en üstte sekmelerin ve sonrasında açıklama ve seçeneklerin bulunduğu bir ekran açılır. En altta bulunan iki düğme işlemi iptal etmenizi veya işleme devam etmenizi sağlar.
 
-Bu ekranda "Görsel Braille çevirisi" adında bir seçenek bulunur. Bu seçenek açık olursa çevrilen belge Braille ekranlarla ve yazıcılarla uyumlu olmaz ve bunun yerine belgenizi cihaz ekranında görsel olarak Braille noktalarla görüntüleyebilirsiniz.
+Bu ekrandaki ilk seçenek çeviri sırasında dikkate alınan dili seçmenizi sağlar. Bu seçenek uygulamanın arayüz dilini değiştirmez. Arayüz dilini değiştirmek için cihazınızdaki "Sistem Ayarları" uygulamasından Dil ve Bölge ayarlarına gitmelisiniz.
+Dil seçeneğinden sonra "Görsel Braille çevirisi" adında bir seçenek bulunur. Bu seçenek açık olursa çevrilen belge Braille ekranlarla ve yazıcılarla uyumlu olmaz ve bunun yerine belgenizi cihaz ekranında görsel olarak Braille noktalarla görüntüleyebilirsiniz.
 
 Bu seçenek ve açıklamasından sonra çeviri ile ilgili ek ayarlar görünür. Bu ayarları açarsanız bunların detaylarını diğer sekmelerde ayarlayabilirsiniz.
 
