@@ -1,7 +1,8 @@
 # Braille Editörü Yardım
-Braille Editörü uygulamasıyla standart Türkçe yazılmış bir düz metin belgesini Braille yazıcıların ve Braille ekranların doğru bir şekilde tanıyabilmesi için bilgisayar Braille biçimine çevirebilirsiniz. Ayrıca ekranda Braille noktaların görsel temsillerini de görüntüleyebilirsiniz.
+Braille Editörü uygulamasıyla standart Türkçe veya İngilizce yazılmış bir düz metin belgesini Braille yazıcıların ve Braille ekranların doğru bir şekilde tanıyabilmesi için bilgisayar Braille biçimine çevirebilirsiniz.
+Ayrıca ekranda Braille noktaların görsel temsillerini de görüntüleyebilirsiniz. Uygulama Türkçe ve İngilizce için kısaltmasız Braille çevirisi yapabilir ancak otomatik dil algılama özelliği desteklenmez.
 
-Aşağıdaki konu başlıkları arasında VoiceOver ile kolayca dolaşmak için rotoru başlıklara ayarlayabilirsiniz.
+Aşağıdaki konu başlıkları arasında VoiceOver ile kolayca dolaşmak için rotoru başlıklara ayarlayabilirsiniz. Uygulama içerisinde çıkan uyarılara VoiceOver ile erişmek için VO aşağı ok komutunu kullanmanız gerekebilir.
 
 Bu belge yalnızca macOS uygulaması için geçerlidir.
 ## Genel bilgiler
@@ -11,7 +12,7 @@ Braille Editörü; UTF8 ile kodlanmış ".txt", ".brf", ".brl" dosyalarının ya
 
 Dosya kaydetme ekranında dosya türünü seçebilirsiniz. "Braille metin belgesi" seçeneğini seçtiğinizde dosyanız .brf uzantısıyla kaydedilir. Uygulama yeni belgeleri her zaman UTF8 kodlamasıyla kaydeder.
 ## Uygulama içi satın alma ve abonelik bilgileri
-Braille Editörü abonelik modelli bir uygulamadır. Aylık ve yıllık olarak iki otomatik yenilenen abonelik vardır. Bu abonelikler bir hafta ücretsiz deneme sunar. Ücretsiz deneme sonrasında ücretlendirilmemek için yenileme tarihinden en geç 24 saat öncesine kadar aboneliği iptal etmeniz gerekir. Aboneliği iptal ederseniz süre sonuna kadar uygulamaya erişim sağlayabilirsiniz.
+Braille Editörü abonelik modelli bir uygulamadır. Aylık ve yıllık olarak iki otomatik yenilenebilir abonelik vardır. Bu abonelikler bir hafta ücretsiz deneme sunar. Ücretsiz deneme sonrasında ücretlendirilmemek için yenileme tarihinden en geç 24 saat öncesine kadar aboneliği iptal etmeniz gerekir. Aboneliği iptal ederseniz süre sonuna kadar uygulamaya erişim sağlayabilirsiniz.
 
 Uygulamada tek seferlik ücret ile sınırsız kullanım sağlayan bir uygulama içi satın alma ürünü daha vardır. Bu ürün ücretsiz deneme modelini desteklemediği için önce aboneliklerden birini seçerek denemeyi başlatmanız, aboneliği deneme süresi dolmadan iptal etmeniz ve süre dolduktan sonra sizin için uygun olan seçeneği seçerek devam etmeniz gerekir.
 
