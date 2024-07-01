@@ -11,7 +11,7 @@ Braille Editor is a document-based application. When you first open the applicat
 Braille Editor supports UTF8-encoded ".txt", ".brf", ".brl" files, as well as some plain text formats provided they are UTF8 encoded. The application works the same way for all file extensions, but Braille screens can behave differently according to the file extension.
 
 You can select the file type on the file save screen. When you select the "Braille text document" option, your file is saved with the .brf extension. The application always saves new documents with UTF8 encoding.
-In-App Purchase and Subscription Information
+## In-App Purchase and Subscription Information
 Braille Editor is a subscription-based application. There are two auto-renewable subscriptions, monthly and yearly. These subscriptions offer a one week free trial. To avoid being charged after the free trial, you must cancel the subscription at least 24 hours before the renewal date. If you cancel the subscription, you can access the application until the end of the period.
 There is another in-app purchase product in the app that provides unlimited usage with a one-time fee. Since this option does not support the free trial model, you must first start the trial by selecting one of the subscriptions, cancel the subscription before the trial period expires, and continue after the time expires by selecting the appropriate option for you.
 The screen required to perform these operations appears when you open a new or existing document. In addition, informative and guiding screens appear instead of the editor, in case of accidental purchases or in cases where your payment method cannot be charged for subscriptions.
