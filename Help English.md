@@ -34,3 +34,24 @@ If the process takes longer, a screen showing the progress will appear and you c
 When the process is completed, as soon as you respond to the warning, your document will be updated with the translated version and you will return to the editor again.
 
 In translated documents, some characters are replaced by different characters, but printers and Braille displays detect them correctly. You can switch to visual Braille format to check on the app that they look right.
+## Visual Translations
+You can switch between viewable and printable Braille formats with the second and third buttons on the Braille menu.
+These buttons simply toggle between two different versions of the 63 Braille characters and do not recognize other characters. Therefore, using these buttons without standard translation is pointless. A change made by selecting one option can be undone by selecting the other.
+## Page Layout Settings
+In this section, you can customize your document for your embossing printer and Braille display. You can include the page layout setting process in the translation process by accessing this screen from the translation screen.
+
+The first option on this screen allows you to specify the number of characters that the screen or paper you are using can contain on a line. Correct setting of this option is important for correct setting of line lengths as well as correct operation of page numbering feature and especially for printers.
+
+The second option on this screen allows you to turn the page number insertion feature on or off. The page number is inline as much as possible in the upper right corner of the page. The page number is translated into Braille format with the standard Braille translation process and placed in viewable or printable Braille format according to your visual Braille setting. Therefore, if you want to adjust the page layout without standard Braille translation, you should turn off the page number insertion setting. After the process, if the page number is in Braille format that you do not want, you can correct this situation with a visual translation process that suits you.
+
+The next option allows you to specify the number of lines on each page to accurately determine the position where the page number will be placed.
+
+The next option allows you to clean up the empty lines in your document that cause too much space in Braille. When determining empty lines, lines consisting of only space and tab characters are taken into account, as well as two consecutive newline characters. This is done just before the page is edited.
+## Settings
+You can access this screen from the "Braille Editor" menu instead of the Braille menu. With this option, you can select your permanent settings to be used on the translation screen on the screen you reach. These settings are stored on your disk even if you close the application.
+
+When new features are added to the application in the future, the number of settings you can select here will increase, and if you always use the same settings when translating, choosing your settings from here will save you time. The settings here are described in the sections above.
+
+You can also view subscription information from this section and manage your subscription on the same screen, where appropriate.
+
+Braille Editor was developed by Halim Can Temirci with the consultancy of Rıdvan Cinkara. This application continues to be developed and your suggestions are important to us. You can contact us at [engramlar_mail.04@icloud.com](mailto:engramlar_mail.04@icloud.com) for your support requests and feedback regarding the application.
