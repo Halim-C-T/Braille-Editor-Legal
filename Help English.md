@@ -1,10 +1,10 @@
 # Braille Editor Help
-With the Braille Editor application, you can translate a plain text document written in standard Turkish or English to computer Braille format so that Braille printers and Braille displays can recognize it correctly.
-You can also view visual representations of Braille dots on the screen. The application can translate Braille without contraction for Turkish and English, but the automatic language detection feature is not supported.
+With the Braille Editor application, you can translate a plain text document written in standard Turkish, English or Arabic to computer Braille format so that Braille printers and Braille displays can recognize it correctly.
+You can also view visual representations of Braille dots on the screen. The application can translate Braille without contraction for Turkish, English or Arabic; but the automatic language detection feature is not supported.
 
-You can set the rotor to titles to easily navigate the following topics with VoiceOver. You may need to use the VO down arrow command to access the alerts in the application with VoiceOver.
+You can set the rotor to titles to easily navigate the following topics with VoiceOver. You may need to use the VO Shift down arrow command to access the alerts in the application with VoiceOver.
 
-This document is only available for the macOS app.
+This document is only available for the macOS app version 3.0 or newer.
 ## General Information
 Braille Editor is a document-based application. When you first open the application, a standard file opening screen appears. From here, you can create a new document or open an existing document.
 
