@@ -1,10 +1,10 @@
 # Braille Editörü Yardım
-Braille Editörü uygulamasıyla standart Türkçe veya İngilizce yazılmış bir düz metin belgesini Braille yazıcıların ve Braille ekranların doğru bir şekilde tanıyabilmesi için bilgisayar Braille biçimine çevirebilirsiniz.
-Ayrıca ekranda Braille noktaların görsel temsillerini de görüntüleyebilirsiniz. Uygulama Türkçe ve İngilizce için kısaltmasız Braille çevirisi yapabilir ancak otomatik dil algılama özelliği desteklenmez.
+Braille Editörü uygulamasıyla standart Türkçe, İngilizce veya Arapça yazılmış bir düz metin belgesini Braille yazıcıların ve Braille ekranların doğru bir şekilde tanıyabilmesi için bilgisayar Braille biçimine çevirebilirsiniz.
+Ayrıca ekranda Braille noktaların görsel temsillerini de görüntüleyebilirsiniz. Uygulama Türkçe, İngilizce ve Arapça için kısaltmasız Braille çevirisi yapabilir ancak otomatik dil algılama özelliği desteklenmez.
 
-Aşağıdaki konu başlıkları arasında VoiceOver ile kolayca dolaşmak için rotoru başlıklara ayarlayabilirsiniz. Uygulama içerisinde çıkan uyarılara VoiceOver ile erişmek için VO aşağı ok komutunu kullanmanız gerekebilir.
+Aşağıdaki konu başlıkları arasında VoiceOver ile kolayca dolaşmak için rotoru başlıklara ayarlayabilirsiniz. Uygulama içerisinde çıkan uyarılara VoiceOver ile erişmek için VO Shift aşağı ok komutunu kullanmanız gerekebilir.
 
-Bu belge yalnızca macOS uygulaması için geçerlidir.
+Bu belge yalnızca macOS uygulaması sürüm 3.0 ve daha yenisi için geçerlidir.
 ## Genel bilgiler
 Braille Editörü belge tabanlı bir uygulamadır. Uygulamayı ilk açtığınızda standart bir dosya açma ekranı karşınıza çıkar. Buradan yeni bir belge oluşturabilir veya mevcut bir belgeyi açabilirsiniz.
 
@@ -28,7 +28,7 @@ Bu, Braille menüsündeki ilk seçenektir ve uygulamanın en önemli işlevi ola
 
 Bu seçeneği seçtiğinizde en üstte sekmelerin ve sonrasında açıklama ve seçeneklerin bulunduğu bir ekran açılır. En altta bulunan iki düğme işlemi iptal etmenizi veya işleme devam etmenizi sağlar.
 
-Bu ekrandaki ilk seçenek çeviri sırasında dikkate alınan dili seçmenizi sağlar. Bu seçenek uygulamanın arayüz dilini değiştirmez. Arayüz dilini değiştirmek için cihazınızdaki "Sistem Ayarları" uygulamasından Dil ve Bölge ayarlarına gitmelisiniz.
+Bu ekrandaki ilk seçenek çeviri sırasında dikkate alınan dili seçmenizi sağlar. Bu seçenek uygulamanın arayüz dilini değiştirmez. Arayüz dilini değiştirmek için cihazınızdaki "Sistem Ayarları" veya "Sistem Tercihleri" uygulamasından Dil ve Bölge ayarlarına gitmelisiniz.
 Dil seçeneğinden sonra "Görsel Braille çevirisi" adında bir seçenek bulunur. Bu seçenek açık olursa çevrilen belge Braille ekranlarla ve yazıcılarla uyumlu olmaz ve bunun yerine belgenizi cihaz ekranında görsel olarak Braille noktalarla görüntüleyebilirsiniz.
 
 Bu seçenek ve açıklamasından sonra çeviri ile ilgili ek ayarlar görünür. Bu ayarları açarsanız bunların detaylarını diğer sekmelerde ayarlayabilirsiniz.
